@@ -17,3 +17,4 @@ forge 'https://forge.puppet.com'
 #  :branch => 'docs_experiment'
 
 mod 'PierrickL-hmailserver', '0.1.3'
+mod 'puppetlabs-haproxy', '3.0.1'
